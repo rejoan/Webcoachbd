@@ -8,7 +8,7 @@ if (!defined('BASEPATH'))
  * Model contains all method used in entire app
  * @author Rejoanul Alam
  */
-class Common_model extends CI_Model {
+class Prime_model extends CI_Model {
 
     /**
      * insert data to any table
